@@ -1,256 +1,137 @@
 [
   {
-    "url": "https://oferimdemunca.ro/job/inginer-designer-3d-junior-senior-proiectare-mecanica-cad-autocad-solidworks-rhino/",
-    "title": "INGINER / DESIGNER 3D (Junior–Senior) – Proiectare mecanică | CAD | Autocad / SolidWorks / Rhino",
-    "company": "NUINTEK EUROPE  SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/angajam-tehnician-cnc-operator-cnc",
+    "title": "ANGAJĂM – Tehnician CNC / Operator CNC",
+    "company": "ASPIRE MANUFACTURING S.R.L.",
     "location": [
-      "Apahida, Romania"
+      "Calea Severinului, Craiova, Romania"
     ],
     "salary": null,
-    "date": "2026-10-01T15:23:21.603Z",
+    "date": "2026-10-02T14:51:50.513Z",
     "status": "scraped",
     "tags": [
-      "proiectare CAD",
-      "modelare 3D"
+      "programare CNC",
+      "prelucrare mecanica"
     ],
-    "matchPercentage": 92,
-    "reason": "Proiectare mecanica 3D cu CAD/SolidWorks, potrivire directa cu modelarea 3D si proiectarea tehnica, nivel junior acceptat."
+    "matchPercentage": 95,
+    "reason": "Se potriveste direct cu programarea si operarea CNC, relevanta pentru prelucrare mecanica."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3364386",
-    "title": "INGINER MECANIC",
-    "company": "IMSAT SA",
+    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-proces-155",
+    "title": "Inginer Proces",
+    "company": "GUALA PACK NADAB SRL",
     "location": [
-      "Bucuresti sectorul 6, Romania"
+      "Caransebes 325400, Romania"
     ],
     "salary": null,
-    "date": "2026-10-01T15:28:46.516Z",
-    "status": "scraped",
-    "tags": [
-      "inginerie mecanică",
-      "proiectare tehnică"
-    ],
-    "matchPercentage": 85,
-    "reason": "Inginer mecanic cu <3 ani experiență, sarcini de specialitate în domeniul fabricației de mașini."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3397699",
-    "title": "OPERATOR LA MASINI-UNELTE CU COMANDA NUMERICA",
-    "company": "VALIR NEK SRL",
-    "location": [
-      "Bucesti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-01T15:28:41.657Z",
-    "status": "scraped",
-    "tags": [
-      "CNC",
-      "tehnologii aschiere"
-    ],
-    "matchPercentage": 82,
-    "reason": "Operare la masini-unelte cu comanda numerica, cu studii superioare si fara experienta, exact pe domeniul CNC/NC si tehnologii de prelucrare."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-mecanica-fina-10",
-    "title": "Tehnician mecanica fina",
-    "company": "KENDRION INDUSTRIAL (SIBIU) SRL",
-    "location": [
-      "Soseaua Sibiului 139, Selimbar 557260, Romania,Sibiu, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-01T15:24:25.943Z",
-    "status": "scraped",
-    "tags": [
-      "tehnologii prelucrare",
-      "asamblare mecanica"
-    ],
-    "matchPercentage": 78,
-    "reason": "Tehnician de mecanica fina la un producator de componente mecanice, relevant pentru prelucrare mecanica si asamblare la nivel entry-level."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/lacatus-mecanic-725",
-    "title": "LACATUS MECANIC",
-    "company": "CEMROM S.A.",
-    "location": [
-      "Corbu 907085, Romania,Navodari 905700, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-01T15:28:52.076Z",
-    "status": "scraped",
-    "tags": [
-      "lăcătuș mecanic",
-      "dispozitive de prelucrare"
-    ],
-    "matchPercentage": 75,
-    "reason": "Activități de lăcătuș mecanic relevante pentru tehnologia construcțiilor de mașini, nivel de intrare potrivit."
-  },
-  {
-    "url": "https://multijobs.ro/job/inginer-tehnolog-debitare/2747",
-    "title": "Inginer Tehnolog Debitare",
-    "company": "ROTEC S.R.L.",
-    "location": [
-      "Buzau, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-01T15:24:49.474Z",
-    "status": "scraped",
-    "tags": [
-      "tehnologii de prelucrare",
-      "proiectare tehnologica"
-    ],
-    "matchPercentage": 72,
-    "reason": "Inginer tehnolog pentru debitare: coincide cu tehnologii de prelucrare si programarea masinilor, la nivel de inginer."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3375895",
-    "title": "MECANIC UTILAJ",
-    "company": "WE ARE ALL NOLIA S.R.L.",
-    "location": [
-      "Leu, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-01T15:28:50.475Z",
-    "status": "scraped",
-    "tags": [
-      "mecanic",
-      "utilaje"
-    ],
-    "matchPercentage": 70,
-    "reason": "Mecanic utilaj este activitate tehnică de întreținere, dar parțial legată de specialitatea de fabricație."
-  },
-  {
-    "url": "https://www.anuntul.ro/anunt-angajare-specialist-proiectare--mj4Rb6",
-    "title": "Specialist proiectare/ Tehnolog",
-    "company": "ANUNTUL TOTAL SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-01T15:27:30.026Z",
+    "date": "2026-10-02T14:51:42.613Z",
     "status": "scraped",
     "tags": [
       "proiectare tehnologica",
-      "desen de executie"
+      "ingineria fabricatiei"
     ],
-    "matchPercentage": 70,
-    "reason": "Specialist proiectare/tehnologie corespunde direct competentelor de proiectare tehnologica si desen de executie."
+    "matchPercentage": 85,
+    "reason": "Domeniul (inginerie de proces/productie) se potriveste direct cu proiectarea tehnologica si ingineria fabricatiei."
   },
   {
-    "url": "https://jobs.zollner.ro/jobposting/0300d52cbe1a32cadc48524088a203ef790cc3de0",
-    "title": "Tehnician analist calitate",
-    "company": "ZES ZOLLNER ELECTRONIC SRL",
-    "location": [
-      "Satu Mare, Romania"
-    ],
+    "url": "https://www.randstad.ro/locuri-de-munca/mtm-refa-engineer_ploiesti_5410/",
+    "title": "mtm / refa engineer",
+    "company": "RANDSTAD ROMANIA SRL",
+    "location": [],
     "salary": null,
-    "date": "2026-10-01T15:27:09.127Z",
+    "date": "2026-10-03T00:25:53.829Z",
     "status": "scraped",
     "tags": [
-      "calitate"
+      "matrite",
+      "scule aschietoare"
     ],
-    "matchPercentage": 68,
-    "reason": "Tehnician calitate in productie electronica cu FMEA si statistica, relevant pentru managementul calitatii industriale."
+    "matchPercentage": 79,
+    "reason": "Inginer matrite si scule in departamentul Engineering, la nivel de proiectare corespunzator formarii tale, fara cerinta de senioritate."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3394804",
-    "title": "OPERATOR LA MASINI-UNELTE CU COMANDA NUMERICA",
-    "company": "LANCO SRL",
+    "url": "https://multijobs.ro/job/operator-cnc-freza-si-strunggermania/1442",
+    "title": "Operator CNC – freză și strung(Germania)",
+    "company": "SILVERHAND.RO SRL",
     "location": [
-      "Talmaciu, Romania"
+      "Pitești, Romania"
     ],
     "salary": null,
-    "date": "2026-10-01T15:28:52.076Z",
+    "date": "2026-10-02T14:51:27.593Z",
     "status": "scraped",
     "tags": [
-      "programare CNC si comanda numerica a masinilor-unelte",
-      "tehnologii de prelucrare mecanica si aschiere"
+      "prelucrare aschiere",
+      "comanda numerica"
     ],
-    "matchPercentage": 65,
-    "reason": "Operator pe masini-unelte cu comanda numerica, relevant pentru CNC si tehnologii de prelucrare, cu nivel de experienta potrivit, dar rolul este de operare, nu de proiectare tehnologica."
+    "matchPercentage": 78,
+    "reason": "Operator CNC pe freza si strung, nivel potrivit pentru un absolvent, acopera competentele de prelucrare si CNC."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/economist-tehnolog-junior-productie",
-    "title": "Economist / Tehnolog junior – producție",
-    "company": "INNOVA SISTEME SI TEHNOLOGII SRL",
+    "url": "https://multijobs.ro/job/operator-cnc-strung-freza-germania/1140",
+    "title": "Operator CNC – strung/freză (Germania)",
+    "company": "SILVERHAND.RO SRL",
     "location": [
-      "Sofronea, Arad, Romania"
+      "Targoviste, Romania"
     ],
     "salary": null,
-    "date": "2026-10-01T15:21:13.361Z",
+    "date": "2026-10-02T14:51:27.593Z",
     "status": "scraped",
     "tags": [
-      "managementul productiei",
-      "planificarea capacitatilor"
+      "prelucrare aschiere",
+      "comanda numerica"
     ],
-    "matchPercentage": 64,
-    "reason": "Pozitie junior de tehnolog la productie, relevanta pentru planificarea si organizarea productiei industriale."
+    "matchPercentage": 76,
+    "reason": "Operator CNC pe strung si freza, nivel de intrare, foloseste direct tehnologiile de prelucrare prin aschiere si comanda numerica."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/analist-calitate-142",
-    "title": "Analist laborator managementul calitatii",
-    "company": "NEVEON ROMANIA S.R.L.",
+    "url": "https://multijobs.ro/job/operator-cnc-freza-germania/2793",
+    "title": "Operator CNC freză (Germania)",
+    "company": "SILVERHAND.RO SRL",
     "location": [
-      "Sibiu, Romania"
+      "Brașov, Romania"
     ],
     "salary": null,
-    "date": "2026-10-01T15:13:29.980Z",
+    "date": "2026-10-02T14:51:27.593Z",
     "status": "scraped",
     "tags": [
-      "calitate"
+      "prelucrare aschiere",
+      "comanda numerica"
     ],
-    "matchPercentage": 64,
-    "reason": "Analist de laborator in managementul calitatii intr-o companie de materiale plastice, relevant dar mai degraba teste de material decat procese de fabricatie."
+    "matchPercentage": 76,
+    "reason": "Operator CNC freza, pozitie entry-level direct legata de prelucrarea prin aschiere si operarea masinilor-unelte."
   },
   {
-    "url": "https://8ore.ro/locuri-de-munca/tehnician-mentenanta",
-    "title": "Tehnician mentenanta",
-    "company": "PFA RĂDOI GHE. NICUŞOR-COSMIN PERSOANĂ FIZICĂ AUTORIZATĂ",
+    "url": "https://multijobs.ro/job/operator-cnc-freza-germania/2456",
+    "title": "Operator CNC freză (Germania)",
+    "company": "SILVERHAND.RO SRL",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-01T15:28:46.516Z",
+    "date": "2026-10-02T14:51:27.593Z",
     "status": "scraped",
     "tags": [
-      "mentenanta",
-      "automatizari"
+      "prelucrare aschiere",
+      "comanda numerica"
     ],
-    "matchPercentage": 64,
-    "reason": "Tehnician de mentenanta electromecanica intr-o unitate de productie, nivel entry potrivit, insa accentul pe electricitate, pneumatica si PLC este partial exterior competentelor tale mecanice."
+    "matchPercentage": 76,
+    "reason": "Operator CNC freza, domeniu direct compatibil si nivel de intrare, fara cerinta de experienta."
   },
   {
-    "url": "https://multijobs.ro/job/mecanic-in-zona-de-productie-industriala/5606",
-    "title": "Mecanic în zona de producție industrială",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271893/Trenkwalder-Romania/ELECTRICIAN-AUTOMATIST-–-MENTENANȚĂ-INDUSTRIALĂ",
+    "title": "ELECTRICIAN AUTOMATIST – MENTENANȚĂ INDUSTRIALĂ",
+    "company": "TRENKWALDER SRL",
     "location": [
-      "Ploiesti, Romania"
+      "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-01T15:21:35.062Z",
+    "date": "2026-10-02T14:39:41.247Z",
     "status": "scraped",
     "tags": [
-      "control dimensional",
-      "calitate"
+      "automatizari",
+      "mentenanta"
     ],
-    "matchPercentage": 63,
-    "reason": "Controlor calitate in productie, in acord cu competentele de control dimensional, tolerante si management al calitatii."
-  },
-  {
-    "url": "https://oferimdemunca.ro/job/operator-cnc-frezor-satu-mare/",
-    "title": "Operator CNC / Frezor – Satu Mare",
-    "company": "SMART OUTSOURCING SERVICES S.R.L.",
-    "location": [
-      "Satu Mare, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-01T15:27:55.385Z",
-    "status": "scraped",
-    "tags": [
-      "CNC",
-      "frezare CNC"
-    ],
-    "matchPercentage": 62,
-    "reason": "Operator CNC/frezor, nivel de intrare potrivit si in domeniul prelucrarilor mecanice, dar fara componenta de proiectare."
+    "matchPercentage": 75,
+    "reason": "Electrician automatist cu mentenanta industriala se potriveste partial cu automatizarile si mentenanta."
   },
   {
     "url": "https://d-career.org/Draexlmaier/job/Codlea-Brasov-Tehnician-Planificarea-%C8%99i-Coordonarea-Produc%C8%9Biei-505100/1442361733/",
@@ -260,13 +141,164 @@
       "Codlea, Romania"
     ],
     "salary": null,
-    "date": "2026-10-01T15:09:07.892Z",
+    "date": "2026-10-02T14:51:40.986Z",
     "status": "scraped",
     "tags": [
-      "planificare",
-      "logistica"
+      "managementul productiei",
+      "logistica planning"
+    ],
+    "matchPercentage": 72,
+    "reason": "Tehnician pentru planificarea si coordonarea productiei intr-o fabrica de componente auto, nivel compatibil si relevant pentru managementul productiei si logistica."
+  },
+  {
+    "url": "https://makitajobs.ro/controlor-calitate/",
+    "title": "Controlor Calitate",
+    "company": "MAKITA EU SRL",
+    "location": [
+      "all, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-02T14:51:03.042Z",
+    "status": "scraped",
+    "tags": [
+      "control dimensional",
+      "tolerante"
+    ],
+    "matchPercentage": 72,
+    "reason": "Verificarea dimensionala si a caracteristicilor mecanice (duritate, rugozitate) a pieselor la un producator de scule electrice corespunde direct controlului dimensional si GD&T."
+  },
+  {
+    "url": "https://www.targuldecariere.ro/companii/schaeffler/18140/specialist-managementul-energiei",
+    "title": "Specialist Managementul Energiei",
+    "company": "SCHAEFFLER ROMANIA SRL",
+    "location": [
+      "Brașov, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-02T14:33:47.552Z",
+    "status": "scraped",
+    "tags": [
+      "managementul productiei",
+      "eficienta"
+    ],
+    "matchPercentage": 70,
+    "reason": "Context industrial la Schaeffler, dar rolul de management al energiei are relevanta partiala fata de productia industriala."
+  },
+  {
+    "url": "https://multijobs.ro/job/inginer-mecanic/492",
+    "title": "Inginer Mecanic",
+    "company": "INSTITUTUL NAŢIONAL DE CERCETARE-DEZVOLTARE ÎN SUDURĂ ŞI ÎNCERCĂRI DE MATERIALE - ISIM TIMIŞOARA",
+    "location": [
+      "Timișoara, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-02T14:45:12.101Z",
+    "status": "scraped",
+    "tags": [
+      "tehnologii sudare",
+      "rezistenta mecanica"
+    ],
+    "matchPercentage": 70,
+    "reason": "Inginer mecanic la un institut de cercetare in sudura si incercari de materiale: se aliniaza cu rezistenta mecanica, tehnologiile de sudare si incarcarile de material."
+  },
+  {
+    "url": "https://multijobs.ro/job/operator-cnc-abkant-germania-2200-eur-net-168-ore-lucrate-cazare-platita-de-firma/2039",
+    "title": "Operator CNC Abkant – Germania: 2200 EUR net/168 ore lucrate, Cazare plătită de firmă",
+    "company": "MEISTERJOB.RO SRL",
+    "location": [
+      "Crasna, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-02T14:51:03.041Z",
+    "status": "scraped",
+    "tags": [
+      "deformare plastica",
+      "comanda numerica"
+    ],
+    "matchPercentage": 66,
+    "reason": "Operator CNC abkant este in domeniul deformarii plastice la rece, dar rolul este mai operatorial si mai putin de proiectare."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-calitate-164",
+    "title": "Tehnician Calitate",
+    "company": "DURA AUTOMOTIVE ROMANIA SRL",
+    "location": [
+      "Giarmata Vii 307201, Romania,Timișoara, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-02T14:51:04.037Z",
+    "status": "scraped",
+    "tags": [
+      "calitate",
+      "control dimensional"
+    ],
+    "matchPercentage": 66,
+    "reason": "Tehnician calitate intr-un furnizor de componente auto: domeniu de control al calitatii in productie industriala, la nivel entry."
+  },
+  {
+    "url": "https://www.randstad.ro/locuri-de-munca/facility-engineer-cu-rsvti_ploiesti_5406/",
+    "title": "facility engineer cu rsvti",
+    "company": "RANDSTAD ROMANIA SRL",
+    "location": [],
+    "salary": null,
+    "date": "2026-10-03T00:25:53.829Z",
+    "status": "scraped",
+    "tags": [
+      "mentenanta",
+      "fiabilitate"
+    ],
+    "matchPercentage": 66,
+    "reason": "Facility engineer intr-o unitate de productie, cu sarcini de mentenanta si conformitate tehnica a echipamentelor; relevanta partiala fata de fiabilitate si mentenanta."
+  },
+  {
+    "url": "https://www.targuldecariere.ro/companii/schaeffler/18145/tehnician-de-calitate-laborator",
+    "title": "Tehnician de Calitate - Laborator",
+    "company": "SCHAEFFLER ROMANIA SRL",
+    "location": [
+      "Ghimbav, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-02T14:51:28.547Z",
+    "status": "scraped",
+    "tags": [
+      "control dimensional",
+      "calitate"
+    ],
+    "matchPercentage": 64,
+    "reason": "Tehnician de calitate in laborator la un producator de rulmenti auto: masuratori si teste fizice pe piese, la nivel de intrare, in zona controlului dimensional."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/responsabil-calitate-documentatie-tehnica",
+    "title": "Responsabil Calitate &amp; Documentatie Tehnica",
+    "company": "FAUNUS PLANT SRL",
+    "location": [
+      "Oradea, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-02T14:51:20.612Z",
+    "status": "scraped",
+    "tags": [
+      "calitate",
+      "documentatie fabricatie"
     ],
     "matchPercentage": 62,
-    "reason": "Planificare si coordonarea productiei cu MES/SAP, in zona competentelor tale, dar cere deja 1-2 ani experienta intr-un rol similar."
+    "reason": "Titul combina managementul calitatii cu documentatia tehnica de fabricatie, deci tangenteaza direct competentele de ingineria calitatii si documentatie."
+  },
+  {
+    "url": "https://www.leohr.ro/jobs/inginer-calitate-proces/206/",
+    "title": "Inginer Calitate Proces",
+    "company": "LEOHR S.R.L.",
+    "location": [
+      "Curtea de Arges, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-02T14:50:34.369Z",
+    "status": "scraped",
+    "tags": [
+      "calitate",
+      "management productie"
+    ],
+    "matchPercentage": 60,
+    "reason": "Inginer calitate proces este un rol din sfera ingineriei calitatii si managementului proceselor, potrivit nivelului de intrare, desi descrierea lipsea."
   }
 ]
