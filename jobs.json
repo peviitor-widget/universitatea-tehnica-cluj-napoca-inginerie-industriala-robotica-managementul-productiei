@@ -1,1 +1,251 @@
-[]
+[
+  {
+    "url": "https://8ore.ro/locuri-de-munca/operator-cnc-multinationala-belciugatele-calarasi",
+    "title": "OPERATOR CNC-Multinationala-Belciugatele Calarasi",
+    "company": "RECRUITMENT MARATHON S.R.L.",
+    "location": [
+      "Belciugatele",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:16.066Z",
+    "status": "scraped",
+    "tags": [
+      "CNC",
+      "prelucrare mecanica"
+    ],
+    "matchPercentage": 95,
+    "reason": "Operator CNC direct relevant pentru competentele de prelucrare mecanica si CNC."
+  },
+  {
+    "url": "https://cemacon.ro/cariere/inginer-tehnolog/",
+    "title": "Inginer Tehnolog",
+    "company": "CEMACON SA",
+    "location": [
+      "Cluj-Napoca"
+    ],
+    "salary": null,
+    "date": "2026-10-16T10:30:32.521Z",
+    "status": "scraped",
+    "tags": [
+      "proiectare tehnologica",
+      "fabricatie"
+    ],
+    "matchPercentage": 95,
+    "reason": "Foarte relevant pentru proiectare tehnologica, fabricatie si optimizarea proceselor industriale."
+  },
+  {
+    "url": "https://romaero.com/cariere/anunt-angajare-controlor-calitate-productie-tratamente-si-acoperiri-de-suprafata/",
+    "title": "CONTROLOR CALITATE PRODUCTIE – TRATAMENTE SI ACOPERIRI DE SUPRAFATA",
+    "company": "ROMAERO SA",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:21.748Z",
+    "status": "scraped",
+    "tags": [
+      "control dimensional",
+      "desen tehnic"
+    ],
+    "matchPercentage": 85,
+    "reason": "Inspecția pieselor după desene, specificații și tehnologii cu EEM-uri folosește direct controlul dimensional, toleranțele GD&T și interpretarea desenului tehnic, la nivel minim 6 luni experiență."
+  },
+  {
+    "url": "https://www.irum.ro/posturi-vacante/controlor-calitate-testare-utilaje-agricole/",
+    "title": "CONTROL CALITATE - TESTARE UTILAJE AGRICOLE",
+    "company": "IRUM SA",
+    "location": [
+      "Reghin",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:39.148Z",
+    "status": "scraped",
+    "tags": [
+      "ingineria calitatii",
+      "control dimensional"
+    ],
+    "matchPercentage": 82,
+    "reason": "Controlul calitatii si testarea utilajelor agricole foloseste direct competentele de control dimensional, calitate si documentatie tehnica, la nivel entry."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/reglor-masini-injectie-mase-plastice/99249250",
+    "title": "Reglor masini injectie mase plastice",
+    "company": "MANPOWER ROMANIA SRL",
+    "location": [
+      "Pitești",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:13.903Z",
+    "status": "scraped",
+    "tags": [
+      "materiale polimerice",
+      "matrite"
+    ],
+    "matchPercentage": 78,
+    "reason": "Reglarea mașinilor de injecție și instalarea matrițelor folosește direct competențele de procesare a materialelor polimerice și de proiectare a matrițelor."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3166510",
+    "title": "INGINER PRELUCRARI METALURGICE",
+    "company": "AEROSTAR SA",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-16T10:54:24.317Z",
+    "status": "scraped",
+    "tags": [
+      "tehnologii",
+      "prelucrare"
+    ],
+    "matchPercentage": 75,
+    "reason": "Inginer prelucrari metalurgice partial relevant pentru tehnologii de fabricatie si prelucrare."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3355196",
+    "title": "OPERATOR LA MASINI-UNELTE SEMIAUTOMATE SI AUTOMATE",
+    "company": "NOVATIK S.R.L.",
+    "location": [
+      "Baicoi",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:15.074Z",
+    "status": "scraped",
+    "tags": [
+      "prelucrare mecanica",
+      "CNC"
+    ],
+    "matchPercentage": 75,
+    "reason": "Operarea mașinilor-unelte semiautomate și automate folosește direct competențele de prelucrare prin aschiere și comandă numerica, la nivel puțin experiență."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-mentenanta-industriala-5-500-lei-net",
+    "title": "Tehnician Mentenanta Industriala – 5.500 lei NET",
+    "company": "CTP AUTOTRADE GROUP S.R.L.",
+    "location": [
+      "Ploiesti",
+      "Romania",
+      "Balta Doamnei",
+      "Romania",
+      "Balotesti",
+      "Romania",
+      "Moara Vlasiei",
+      "Romania",
+      "Bucuresti",
+      "Romania",
+      "Stefanestii de Jos",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:22.866Z",
+    "status": "scraped",
+    "tags": [
+      "mentenanță industrială",
+      "fiabilitate"
+    ],
+    "matchPercentage": 72,
+    "reason": "Tehnician mentenanță industrială, potrivit ca nivel de intrare și relevant cu competențele de mentenanță și fiabilitate industrială."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-inginer-autocad-2",
+    "title": "TEHNICIAN/INGINER AUTOCAD",
+    "company": "MSM ALUMINIUM &amp; PVC SYSTEMS SRL",
+    "location": [
+      "Str. Splaiul Unirii",
+      "nr. 5B",
+      "Popesti-Leordeni",
+      "Ilfov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:33.895Z",
+    "status": "scraped",
+    "tags": [
+      "proiectare CAD",
+      "desene de executie"
+    ],
+    "matchPercentage": 70,
+    "reason": "Rol de desenare/proiectare în AutoCAD pentru sisteme din aluminiu, care folosește direct competența de proiectare asistată de calculator și documentație de execuție."
+  },
+  {
+    "url": "https://multijobs.ro/job/tehnician-mentenanta-electromecanica-automatica-echipamente-industriale/6112",
+    "title": "TEHNICIAN MENTENANTA ELECTROMECANICA – AUTOMATICA ECHIPAMENTE INDUSTRIALE",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Lugoj",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:18.822Z",
+    "status": "scraped",
+    "tags": [
+      "automatizari",
+      "mentenanta"
+    ],
+    "matchPercentage": 70,
+    "reason": "Mentenanța electromecanică și automatizarea echipamentelor industriale se bazează direct pe competențele de automatizări și mentenanță tehnică."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/responsabil-asamblare-produse-militare",
+    "title": "Responsabil asamblare produse militare",
+    "company": "NOVA MODUL SRL",
+    "location": [
+      "Alba",
+      "Cugir",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:02:54.601Z",
+    "status": "scraped",
+    "tags": [
+      "asamblare dispozitive",
+      "proiectare tehnica"
+    ],
+    "matchPercentage": 68,
+    "reason": "Asamblare produse industriale relevanta pentru proiectarea si asamblarea dispozitivelor, dar descrierea este prea scurta pentru o potrivire mai buna."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-electric-automatizari-si-mecanica-2",
+    "title": "Tehnician electric, automatizări și mecanică",
+    "company": "SCOPE SYSTEMS S.R.L.",
+    "location": [
+      "Soseaua Pipera 14",
+      "etaj 3",
+      "Sector 1",
+      "Bucuresti 014255",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:02:35.241Z",
+    "status": "scraped",
+    "tags": [
+      "automatizari",
+      "organe de masini"
+    ],
+    "matchPercentage": 66,
+    "reason": "Automatizari si mecanica intr-un mediu tehnic se potrivesc partial competentelor tale, desi e nivel de tehnician."
+  },
+  {
+    "url": "https://www.targuldecariere.ro/companii/holcim-romania-sa/18634/operator-mentenan-turda",
+    "title": "Operator mentenanță - Turda",
+    "company": "HOLCIM (ROMANIA) SA",
+    "location": [
+      "Turda",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:21.748Z",
+    "status": "scraped",
+    "tags": [
+      "mentenanta",
+      "organe de masini"
+    ],
+    "matchPercentage": 63,
+    "reason": "Întreținerea mecanică a utilajelor industriale folosește cunoștințe de organe de masini, mentenanță și diagnoză tehnică, la nivel entry."
+  }
+]
