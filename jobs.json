@@ -1,21 +1,37 @@
 [
   {
-    "url": "https://www.jobradar24.ro/anunt/operator-prelucrare-cnc-strung-sau-centru-de-frezare-45m5gv",
-    "title": "Operator prelucrare CNC - strung sau centru de frezare",
-    "company": "FLEXIBIL SRL",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3166487",
+    "title": "INGINER MECANIC",
+    "company": "AEROSTAR SA",
     "location": [
-      "Sasar",
-      "Romania"
+      "România"
     ],
     "salary": null,
-    "date": "2026-10-17T12:20:56.264Z",
+    "date": "2026-10-19T12:25:06.239Z",
     "status": "scraped",
     "tags": [
-      "CNC",
-      "frezare"
+      "proiectare tehnica",
+      "rezistenta mecanica"
     ],
-    "matchPercentage": 95,
-    "reason": "Operator CNC pentru strung sau centru de frezare se potrivește direct cu programarea și prelucrarea mecanică."
+    "matchPercentage": 85,
+    "reason": "Inginer mecanic cu studii superioare si sub 3 ani experienta, intr-un domeniu direct relevant de proiectare si tehnologie mecanica."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3166661",
+    "title": "OPERATOR LA MASINI-UNELTE CU COMANDA NUMERICA",
+    "company": "AEROSTAR SA",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-19T12:25:06.239Z",
+    "status": "scraped",
+    "tags": [
+      "Programare CNC",
+      "Comandă numerica"
+    ],
+    "matchPercentage": 85,
+    "reason": "Operarea mașinilor-unelte cu comandă numerică la nivel de intrare (<3 ani) folosește direct competențele de CNC și prelucrare prin aschiere."
   },
   {
     "url": "https://www.valrom.ro/joburi/operator-cnc/",
@@ -26,84 +42,14 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-18T10:42:21.365Z",
+    "date": "2026-10-19T12:41:09.496Z",
     "status": "scraped",
     "tags": [
       "Programare CNC",
-      "Prelucrare mecanica"
-    ],
-    "matchPercentage": 85,
-    "reason": "Opereaza strung si freza CNC, lucreaza dupa desen tehnic si regleaza programe de executie, direct din competentele tale de prelucrare mecanica si comanda numerica."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3166487",
-    "title": "INGINER MECANIC",
-    "company": "AEROSTAR SA",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-18T10:32:46.388Z",
-    "status": "scraped",
-    "tags": [
-      "proiectare tehnica",
-      "CAD"
+      "Prelucrări mecanice"
     ],
     "matchPercentage": 82,
-    "reason": "Inginer mecanic cu studii superioare si sub 3 ani experienta intr-un producator industrial, folosind direct proiectarea si documentatia tehnica mecanica."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3166661",
-    "title": "OPERATOR LA MASINI-UNELTE CU COMANDA NUMERICA",
-    "company": "AEROSTAR SA",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-18T10:32:46.388Z",
-    "status": "scraped",
-    "tags": [
-      "Programare CNC",
-      "Comanda numerica"
-    ],
-    "matchPercentage": 82,
-    "reason": "Operator la masini-unelte cu comanda numerica cu experienta minima sub 3 ani, foloseste direct competentele tale de CNC si prelucrare mecanica."
-  },
-  {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/operator-prelucrare-cnc-strung-sau-centru-de-frezare/1988158",
-    "title": "Operator prelucrare CNC - strung sau centru de frezare",
-    "company": "FLEXIBIL SRL",
-    "location": [
-      "Baiamare",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:23:03.887Z",
-    "status": "scraped",
-    "tags": [
-      "programare CNC",
-      "prelucrare mecanică"
-    ],
-    "matchPercentage": 72,
-    "reason": "Operare și reglare mașini-unelte CNC cu citire de desene tehnice, activitate direct aliniată competenței de programare și operare CNC, nivel de intrare."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3415294",
-    "title": "GESTIONAR DEPOZIT",
-    "company": "VEL PITAR SA",
-    "location": [
-      "DUMBRAVITA",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-18T09:59:44.612Z",
-    "status": "scraped",
-    "tags": [
-      "logistică",
-      "stocuri"
-    ],
-    "matchPercentage": 70,
-    "reason": "Gestionarea depozitului/stocurilor este parțial relevantă pentru logistică/planning, iar nivelul (<3 ani) corespunde junior."
+    "reason": "Operarea strungului/frezelor CNC, introducerea programelor și verificarea după desenul tehnic folosesc direct competențele de comandă numerică și prelucrări mecanice, la nivel entry."
   },
   {
     "url": "https://www.publi24.ro/anunturi/locuri-de-munca/administratie/operatori-calculator/anunt/angajam-tehnician-dezvoltare-industriala/514ff12hfhg77fhed7i271856de447g7.html",
@@ -117,47 +63,28 @@
     "date": "2026-10-17T12:19:25.184Z",
     "status": "scraped",
     "tags": [
-      "ingineria productiei",
-      "optimizare"
+      "tehnologie",
+      "proiectare"
     ],
-    "matchPercentage": 70,
-    "reason": "Tehnician dezvoltare industrială într-o companie de fabricație - se potrivește parțial cu ingineria fabricației și optimizarea tehnologiilor, nivel entry."
+    "matchPercentage": 80,
+    "reason": "Tehnician dezvoltare industrială - potrivit pentru inginerie fabricație/proiectare"
   },
   {
-    "url": "https://www.randstad.ro/locuri-de-munca/operator-brazare-cupru-hvac-tehnician-sudura-italia_padova_5270/",
-    "title": "Operator Brazare Cupru (HVAC)/ Tehnician Sudură. Italia",
-    "company": "RANDSTAD ROMANIA SRL",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3166510",
+    "title": "INGINER PRELUCRARI METALURGICE",
+    "company": "AEROSTAR SA",
     "location": [
-      "Padova",
-      "Romania"
+      "România"
     ],
     "salary": null,
-    "date": "2026-10-18T10:21:33.878Z",
+    "date": "2026-10-19T12:25:06.239Z",
     "status": "scraped",
     "tags": [
-      "sudare",
-      "fabricație"
+      "prelucrare aschiere",
+      "tehnologii materiale"
     ],
-    "matchPercentage": 70,
-    "reason": "Tehnician sudură relevant pentru tehnologii de sudare, dar brazarea HVAC este parțial legată de domeniul mașinilor."
-  },
-  {
-    "url": "https://www.randstad.ro/locuri-de-munca/tehnician-testare-finala-si-calitate-hvac-end-of-line-tester-italia_padova_5275/",
-    "title": "Tehnician Testare Finală și Calitate HVAC (End of Line Tester). Italia",
-    "company": "RANDSTAD ROMANIA SRL",
-    "location": [
-      "Padova",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-18T10:21:33.878Z",
-    "status": "scraped",
-    "tags": [
-      "ingineria calitatii",
-      "control dimensional"
-    ],
-    "matchPercentage": 68,
-    "reason": "Tehnician testare finală și calitate - se potrivește parțial cu ingineria calității și controlul dimensional, nivel entry, deși e pe HVAC și cu contract temporar în Italia."
+    "matchPercentage": 78,
+    "reason": "Inginer prelucrări metalurgice la un producător aerospațial, sub 3 ani experiență — se potrivește cu tehnologiile de prelucrare și deformare plastică."
   },
   {
     "url": "https://cemacon.ro/cariere/inginer-tehnolog/",
@@ -168,135 +95,31 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-18T10:13:39.837Z",
+    "date": "2026-10-19T11:50:49.690Z",
     "status": "scraped",
     "tags": [
-      "optimizarea tehnologiilor",
-      "managementul calității"
+      "ingineria fabricatiei",
+      "managementul calitatii"
     ],
-    "matchPercentage": 66,
-    "reason": "Stabilirea și optimizarea tehnologiei de fabricație, a parametrilor procesului și controlul calității folosesc direct competențele de proiectare tehnologică și optimizare."
+    "matchPercentage": 75,
+    "reason": "Inginer tehnolog care stabilește tehnologia de fabricație, parametri proces, optimizare consumuri și control al calității — inginerie de fabricație directă."
   },
   {
-    "url": "https://multijobs.ro/job/operator-cnc/4668",
-    "title": "Operator CNC",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Branesti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:22:35.934Z",
-    "status": "scraped",
-    "tags": [
-      "programare CNC"
-    ],
-    "matchPercentage": 65,
-    "reason": "Titlul de operator CNC indică operare mașini-unelte cu comandă numerică, domeniu de competență, nivel de intrare."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3166510",
-    "title": "INGINER PRELUCRARI METALURGICE",
+    "url": "https://cariere.aerostar.ro/jobs/c3d02de4-1276-43bc-9772-91b3d606add9",
+    "title": "INSPECTOR DE CALITATE",
     "company": "AEROSTAR SA",
     "location": [
       "România"
     ],
     "salary": null,
-    "date": "2026-10-18T10:32:46.388Z",
+    "date": "2026-10-19T12:25:06.238Z",
     "status": "scraped",
     "tags": [
-      "prelucrare mecanică",
-      "ingineria fabricației"
+      "Control dimensional",
+      "Documentație fabricație"
     ],
-    "matchPercentage": 65,
-    "reason": "Inginer prelucrări metalurgice într-un mediu de fabricație, cu cerință sub 3 ani experiență, relevant pentru tehnologiile de prelucrare a materialelor."
-  },
-  {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/qjslVELwJw",
-    "title": "Inginer calitate instalatii",
-    "company": "ELECTROGRUP SA",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-18T10:36:54Z",
-    "status": "scraped",
-    "tags": [
-      "managementul calitatii",
-      "audit si standardizare"
-    ],
-    "matchPercentage": 65,
-    "reason": "Managementul calitatii aplicat lucrarilor MEP, inclusiv verificarea echipamentelor mecanice, atinge partial domeniul mecanic si de calitate."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000139009890-cad-engineer",
-    "title": "CAD Engineer",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-18T10:44:51.761Z",
-    "status": "scraped",
-    "tags": [
-      "CAD"
-    ],
-    "matchPercentage": 64,
-    "reason": "Activitate de drafting și planificare tehnică pe CAD într-o fabrică, folosind direct competența de proiectare asistată de calculator, deși domeniul e facility planning."
-  },
-  {
-    "url": "https://oferimdemunca.ro/job/responsabil-control-calitate-galati/",
-    "title": "Responsabil control calitate/ Galati",
-    "company": "SMART OUTSOURCING SERVICES S.R.L.",
-    "location": [
-      "Galaţi",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:21:43.199Z",
-    "status": "scraped",
-    "tags": [
-      "control dimensional",
-      "managementul calitatii"
-    ],
-    "matchPercentage": 64,
-    "reason": "Controlul calitatii in productie se bazeaza direct pe competentele tale de analiza dimensionala, tolerante si management al calitatii."
-  },
-  {
-    "url": "https://www.prohuman.ro/candidati/jobs/Inginer-Coordonator-Control-Produs",
-    "title": "Inginer Coordonator Control Produs",
-    "company": "PROHUMAN APT S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:15:50.485Z",
-    "status": "scraped",
-    "tags": [
-      "managementul calitatii",
-      "audit si standardizare"
-    ],
-    "matchPercentage": 64,
-    "reason": "Controlul calitatii produselor (ISO 9001, SPC, FAI/PPAP) foloseste direct competenta de management al calitatii, iar nivelul de minim 3 ani se incadreaza la limita superioara a unui rol mid."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155250460-mecanic",
-    "title": "Mecanic",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-18T10:44:51.761Z",
-    "status": "scraped",
-    "tags": [
-      "mentenanta",
-      "fiabilitate"
-    ],
-    "matchPercentage": 62,
-    "reason": "Intretinerea si repararea masinilor din linii de productie se bazeaza pe cunostinte de mecanica, organe de masini si mentenanta, desi este un rol de executie tehnica."
+    "matchPercentage": 74,
+    "reason": "Verificarea conformității după desene, cote și specificații tehnice folosește direct controlul dimensional și documentația de fabricație, dar nivelul exact de experiență nu este clar."
   },
   {
     "url": "https://www.targuldecariere.ro/companii/holcim-romania-sa/18682/inginer-tehnolog-producie-prefabricate-beton-buzu",
@@ -310,46 +133,154 @@
     "date": "2026-10-17T12:19:16.340Z",
     "status": "scraped",
     "tags": [
-      "optimizarea tehnologiilor",
-      "managementul producției"
+      "ingineria fabricatiei",
+      "optimizare tehnologii"
     ],
-    "matchPercentage": 62,
-    "reason": "Optimizarea procesului de fabricație a prefabricatelor din beton intră în zona de inginerie a fabricației și optimizarea tehnologiilor, deși industria este construcțiilor."
+    "matchPercentage": 74,
+    "reason": "Inginer tehnolog cu optimizarea procesului de fabricație la o fabrică de prefabricate beton — inginerie de producție și tehnologie aplicată."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3412401",
-    "title": "ANALIST CALITATE",
-    "company": "DELONGHI SOLAR S.R.L.",
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/operator-prelucrare-cnc-strung-sau-centru-de-frezare/1988158",
+    "title": "Operator prelucrare CNC - strung sau centru de frezare",
+    "company": "FLEXIBIL SRL",
     "location": [
-      "Madaras",
+      "Baiamare",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:19:45.828Z",
+    "date": "2026-10-17T12:23:03.887Z",
     "status": "scraped",
     "tags": [
-      "managementul calitatii"
+      "prelucrare aschiere",
+      "programare CNC"
     ],
-    "matchPercentage": 62,
-    "reason": "Rol entry-level de analist al calitatii intr-o unitate de productie industriala, potrivit pentru absolvent cu competenta de management al calitatii."
+    "matchPercentage": 72,
+    "reason": "Operator CNC cu operare strung/centru de frezare, citire desene tehnice și cunoașterea materialelor — potrivire directă cu competențele de prelucrare prin aschiere, la nivel entry."
   },
   {
-    "url": "https://www.randstad.ro/locuri-de-munca/tehnician-mentenanta_hunedoara_5083/",
-    "title": "Tehnician mentenanta",
+    "url": "https://www.targuldecariere.ro/companii/zes-zollner-electronic/16467/analist-calitate-client",
+    "title": "Analist calitate client",
+    "company": "ZES ZOLLNER ELECTRONIC SRL",
+    "location": [
+      "Satu Mare",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:19:29.752Z",
+    "status": "scraped",
+    "tags": [
+      "managementul calitatii",
+      "optimizarea tehnologiilor"
+    ],
+    "matchPercentage": 72,
+    "reason": "Dezvoltarea și implementarea proceselor interne de calitate în producție și îmbunătățirea continuă folosesc direct managementul calității și optimizarea proceselor de fabricație."
+  },
+  {
+    "url": "https://www.jobradar24.ro/anunt/operator-prelucrare-cnc-strung-sau-centru-de-frezare-45m5gv",
+    "title": "Operator prelucrare CNC - strung sau centru de frezare",
+    "company": "FLEXIBIL SRL",
+    "location": [
+      "Sasar",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:20:56.264Z",
+    "status": "scraped",
+    "tags": [
+      "programare CNC",
+      "tehnologii aschiere"
+    ],
+    "matchPercentage": 72,
+    "reason": "Operator CNC pe strung sau centru de frezare - prelucrare mecanica prin aschiere si comanda numerica, domeniu direct al specializarii, nivel entry."
+  },
+  {
+    "url": "https://www.randstad.ro/locuri-de-munca/tehnician-testare-finala-si-calitate-hvac-end-of-line-tester-italia_padova_5275/",
+    "title": "Tehnician Testare Finală și Calitate HVAC (End of Line Tester). Italia",
     "company": "RANDSTAD ROMANIA SRL",
     "location": [
-      "Hunedoara",
+      "Padova",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-18T10:21:33.878Z",
+    "date": "2026-10-19T12:03:57.282Z",
     "status": "scraped",
     "tags": [
-      "mentenanta",
-      "fiabilitate"
+      "calitate",
+      "control"
     ],
-    "matchPercentage": 62,
-    "reason": "Tehnician mentenanță în producție - se potrivește parțial cu competențele de mentenanță, fiabilitate și procese industriale, la nivel entry."
+    "matchPercentage": 70,
+    "reason": "Tehnician testare și calitate - relevant parțial pentru control dimensional/calitate"
+  },
+  {
+    "url": "https://multijobs.ro/job/operator-roboti-sudura/2873",
+    "title": "Operator Roboti Sudura",
+    "company": "PROHUMAN APT S.R.L.",
+    "location": [
+      "Pitești",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:05:27.550Z",
+    "status": "scraped",
+    "tags": [
+      "tehnologii de sudare",
+      "automatizari"
+    ],
+    "matchPercentage": 68,
+    "reason": "Operator roboti sudura - combina tehnologia sudurii cu automatizarea prin roboti, domeniu relevant pentru profilul de robotica si productie, nivel entry."
+  },
+  {
+    "url": "https://multijobs.ro/job/operator-cnc/4668",
+    "title": "Operator CNC",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Branesti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:22:35.934Z",
+    "status": "scraped",
+    "tags": [
+      "programare CNC",
+      "prelucrare aschiere"
+    ],
+    "matchPercentage": 65,
+    "reason": "Titlul de Operator CNC indică operare mașini-unelte cu comandă numerică, domeniu relevant pentru nivel entry."
+  },
+  {
+    "url": "https://oferimdemunca.ro/job/responsabil-control-calitate-galati/",
+    "title": "Responsabil control calitate/ Galati",
+    "company": "SMART OUTSOURCING SERVICES S.R.L.",
+    "location": [
+      "Galaţi",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:21:43.199Z",
+    "status": "scraped",
+    "tags": [
+      "control",
+      "calitate"
+    ],
+    "matchPercentage": 65,
+    "reason": "Parțial relevant pentru ingineria calității"
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154983972-electrician-mentenanta",
+    "title": "Electrician mentenanta",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-19T12:44:36.733Z",
+    "status": "scraped",
+    "tags": [
+      "automatizări",
+      "mentenanță"
+    ],
+    "matchPercentage": 65,
+    "reason": "Mentenanță electrică în producție, parțial legată de automatizări"
   },
   {
     "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273055/Humangest-România/Tehnician-Mentenanta",
@@ -365,100 +296,11 @@
     "date": "2026-10-17T12:22:51.110Z",
     "status": "scraped",
     "tags": [
-      "mentenanta",
-      "fiabilitate"
+      "mentenanță",
+      "utilaje"
     ],
-    "matchPercentage": 62,
-    "reason": "Tehnician mentenanță - potrivire parțială cu competențele de mentenanță, fiabilitate și analiza defectelor în mediu industrial."
-  },
-  {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/l3DNaO2G19",
-    "title": "Inginer Calitate Electrice",
-    "company": "ELECTROGRUP SA",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-18T10:36:54Z",
-    "status": "scraped",
-    "tags": [
-      "managementul calitatii",
-      "audit si standardizare"
-    ],
-    "matchPercentage": 60,
-    "reason": "Foloseste direct competentele de management al calitatii (PCC, audit, neconformitati, trasabilitate), desi contextul e constructia de statii electrice."
-  },
-  {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/yxJVqBAfHk",
-    "title": "Inginer Calitate Electrice",
-    "company": "ELECTROGRUP SA",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-18T10:36:54Z",
-    "status": "scraped",
-    "tags": [
-      "managementul calitatii",
-      "audit si standardizare"
-    ],
-    "matchPercentage": 60,
-    "reason": "Foloseste direct competentele de management al calitatii (inspecii, neconformitati, masuri corective/preventive), desi contextul e infrastructura electrica."
-  },
-  {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/F9wmym3eLR",
-    "title": "Inginer Calitate Electrice",
-    "company": "ELECTROGRUP SA",
-    "location": [
-      "Iași",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-18T10:36:54Z",
-    "status": "scraped",
-    "tags": [
-      "managementul calitatii",
-      "audit si standardizare"
-    ],
-    "matchPercentage": 60,
-    "reason": "Foloseste direct competentele de management al calitatii (PCC, audit, trasabilitate), desi contextul e constructia de statii electrice."
-  },
-  {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/NRqMw8Lvh5",
-    "title": "Inginer Calitate Electrice",
-    "company": "ELECTROGRUP SA",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-18T10:36:54Z",
-    "status": "scraped",
-    "tags": [
-      "managementul calitatii",
-      "audit si standardizare"
-    ],
-    "matchPercentage": 60,
-    "reason": "Foloseste direct competentele de management al calitatii (PCC, audit, trasabilitate), desi contextul e constructia de statii electrice."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154983972-electrician-mentenanta",
-    "title": "Electrician mentenanta",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-18T10:44:51.761Z",
-    "status": "scraped",
-    "tags": [
-      "mentenanta",
-      "fiabilitate"
-    ],
-    "matchPercentage": 60,
-    "reason": "Mentenanță și reparație a mașinilor de pe liniile de fabricație se leagă de competența de fiabilitate și mentenanță, dar profilul e mai degrabă electrician."
+    "matchPercentage": 65,
+    "reason": "Tehnician mentenanță industrială, relevant parțial pentru echipamente de producție"
   },
   {
     "url": "https://www.publi24.ro/anunturi/locuri-de-munca/muncitori-productie-depozit-logistica/operatori-utilaje/anunt/angajam-reglor-masini-mecanic-intretinere-electrician-talpuitor-operator-scamosat-mecanic/id976296f8f67954dg5811502h2h4612.html",
@@ -472,10 +314,46 @@
     "date": "2026-10-17T12:22:41.695Z",
     "status": "scraped",
     "tags": [
-      "mentenanta",
-      "polimerice"
+      "mentenanță",
+      "mecanică"
     ],
-    "matchPercentage": 60,
-    "reason": "Reglare mașini și mecanică de întreținere într-o fabrică de polimeri - relevant parțial pentru mentenanță și tehnologii de procesare a materialelor polimerice."
+    "matchPercentage": 65,
+    "reason": "Roluri de mentenanță/mecanică în producție, parțial relevante"
+  },
+  {
+    "url": "https://www.randstad.ro/locuri-de-munca/operator-brazare-cupru-hvac-tehnician-sudura-italia_padova_5270/",
+    "title": "Operator Brazare Cupru (HVAC)/ Tehnician Sudură. Italia",
+    "company": "RANDSTAD ROMANIA SRL",
+    "location": [
+      "Padova",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-19T12:03:57.282Z",
+    "status": "scraped",
+    "tags": [
+      "tehnologii de sudare",
+      "prelucrare materiale"
+    ],
+    "matchPercentage": 65,
+    "reason": "Tehnician sudura/operator brazare cupru - domeniul sudarii si prelucrarii materialelor este relevant pentru competentele de tehnologii de sudare, la nivel entry de tehnician."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271893/Trenkwalder-Romania/ELECTRICIAN-AUTOMATIST-–-MENTENANȚĂ-INDUSTRIALĂ",
+    "title": "ELECTRICIAN AUTOMATIST – MENTENANȚĂ INDUSTRIALĂ",
+    "company": "TRENKWALDER SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:22:39.119Z",
+    "status": "scraped",
+    "tags": [
+      "automatizarea proceselor",
+      "fiabilitate, mentenanta"
+    ],
+    "matchPercentage": 64,
+    "reason": "Mentenanța industrială și automatizarea proceselor se potrivesc parțial cu competențele de automatizări și comandă numerică, la nivel junior/mid (1-5 ani)."
   }
 ]
