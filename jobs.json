@@ -8,14 +8,14 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-30T12:29:18.833Z",
+    "date": "2026-11-09T15:43:43.076Z",
     "status": "scraped",
     "tags": [
       "programare CNC",
-      "prelucrare prin aschiere"
+      "prelucrare mecanica"
     ],
-    "matchPercentage": 84,
-    "reason": "Operarea strungului/frezei CNC, reglarea și introducerea programelor după desenul tehnic folosesc direct competențele de prelucrare prin așchiere și programare CNC."
+    "matchPercentage": 88,
+    "reason": "Operare strung/freza CNC si executie piese dupa desen tehnic, folosind direct prelucrarea mecanica si programarea CNC."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3166661",
@@ -25,84 +25,32 @@
       "România"
     ],
     "salary": null,
-    "date": "2026-10-30T12:18:51.089Z",
+    "date": "2026-11-09T15:28:00.922Z",
     "status": "scraped",
     "tags": [
-      "comanda numerica",
-      "prelucrare prin aschiere"
+      "programare CNC",
+      "prelucrare mecanica"
     ],
-    "matchPercentage": 83,
-    "reason": "Operator la mașini-unelte cu comandă numerică, post entry-level care folosește direct competențele de CNC și prelucrare prin așchiere."
+    "matchPercentage": 85,
+    "reason": "Operare masini-unelte cu comanda numerica in fabricatia aerospatiala, potrivit cu programarea CNC si prelucrarea mecanica."
   },
   {
-    "url": "https://www.randstad.ro/locuri-de-munca/controlor-calitate_bucuresti_5474/",
-    "title": "controlor calitate",
-    "company": "RANDSTAD ROMANIA SRL",
-    "location": [
-      "București",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-30T12:06:08.192Z",
-    "status": "scraped",
-    "tags": [
-      "control dimensional",
-      "managementul calității"
-    ],
-    "matchPercentage": 78,
-    "reason": "Controlor calitate în fabrică, cu inspecții, documentare și neconformități, potrivit competențelor de calitate și control dimensional."
-  },
-  {
-    "url": "https://cariere.aerostar.ro/jobs/c3d02de4-1276-43bc-9772-91b3d606add9",
-    "title": "INSPECTOR DE CALITATE",
-    "company": "AEROSTAR SA",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-30T12:18:51.089Z",
-    "status": "scraped",
-    "tags": [
-      "control dimensional",
-      "managementul calitatii"
-    ],
-    "matchPercentage": 76,
-    "reason": "Inspectorul de calitate citește desene și specificații tehnice și face control dimensional și al toleranțelor, activitate direct relevantă pentru ingineria calității."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3426318",
-    "title": "INGINER PRODUCTIE",
-    "company": "VALROM INDUSTRIE SRL",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-30T12:29:18.833Z",
-    "status": "scraped",
-    "tags": [
-      "managementul productiei",
-      "fabricatie industriala"
-    ],
-    "matchPercentage": 72,
-    "reason": "Pozitie de inginer productie cu studii superioare si experienta sub 3 ani, potrivita pentru managementul productiei si fabricatia industriala."
-  },
-  {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/operator-prelucrare-cnc-strung-sau-centru-de-frezare/1988158",
+    "url": "https://www.jobradar24.ro/anunt/operator-prelucrare-cnc-strung-sau-centru-de-frezare-45m5gv",
     "title": "Operator prelucrare CNC - strung sau centru de frezare",
     "company": "FLEXIBIL SRL",
     "location": [
-      "Baiamare",
+      "Sasar",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:23:03.887Z",
+    "date": "2026-10-17T12:20:56.264Z",
     "status": "scraped",
     "tags": [
-      "operare CNC",
-      "desen tehnic"
+      "prelucrare prin așchiere",
+      "programare CNC"
     ],
-    "matchPercentage": 72,
-    "reason": "Setare și operare strung/freză CNC, direct pe prelucrare mecanică."
+    "matchPercentage": 85,
+    "reason": "Operator prelucrare CNC strung/frezare folosește direct competențele de prelucrare prin așchiere și programare CNC, nivel entry-level."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3166510",
@@ -112,14 +60,14 @@
       "România"
     ],
     "salary": null,
-    "date": "2026-10-30T12:18:51.089Z",
+    "date": "2026-11-09T15:28:00.922Z",
     "status": "scraped",
     "tags": [
-      "tehnologii de fabricatie",
-      "sudare"
+      "prelucrari metalurgice",
+      "tehnologii de sudare"
     ],
     "matchPercentage": 72,
-    "reason": "Prelucrări metalurgice pentru aerospace, sub 3 ani experiență, aproape de tehnologiile de fabricație."
+    "reason": "Inginerie prelucrări metalurgice la nivel entry-level, cu aplicare directă a competențelor de deformare, sudare și procesare a materialelor."
   },
   {
     "url": "https://multijobs.ro/job/inginer-tehnolog-mecanic/6941",
@@ -133,65 +81,65 @@
     "date": "2026-10-17T12:17:56.215Z",
     "status": "scraped",
     "tags": [
-      "tehnologii de fabricatie",
-      "proiectare mecanica"
+      "inginerie fabricatie",
+      "tehnologii prelucrare"
     ],
     "matchPercentage": 72,
-    "reason": "Inginer tehnolog/mecanic, titlu și profil direct relevante pentru fabricație mecanică."
+    "reason": "Inginer tehnolog/mecanic cu sarcini de tehnologie și fabricație mecanică, potrivit competențelor de inginerie a fabricației."
   },
   {
-    "url": "https://www.randstad.ro/locuri-de-munca/operator-cnc_popesti-leordeni_5449/",
-    "title": "operator cnc",
-    "company": "RANDSTAD ROMANIA SRL",
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/operator-prelucrare-cnc-strung-sau-centru-de-frezare/1988158",
+    "title": "Operator prelucrare CNC - strung sau centru de frezare",
+    "company": "FLEXIBIL SRL",
     "location": [
-      "Popesti-Leordeni",
+      "Baiamare",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-30T12:06:08.192Z",
+    "date": "2026-10-17T12:23:03.887Z",
     "status": "scraped",
     "tags": [
-      "operare CNC",
-      "prelucrare mecanica"
-    ],
-    "matchPercentage": 70,
-    "reason": "Operare CNC și prelucrare mecanică direct relevante, poziție entry-level."
-  },
-  {
-    "url": "https://cemacon.ro/cariere/inginer-tehnolog/",
-    "title": "Inginer Tehnolog",
-    "company": "CEMACON SA",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-30T11:58:47.873Z",
-    "status": "scraped",
-    "tags": [
-      "tehnologia fabricatiei",
-      "managementul calitatii"
+      "prelucrare CNC",
+      "desen tehnic"
     ],
     "matchPercentage": 68,
-    "reason": "Stabilește tehnologia și parametrii de fabricație și monitorizează calitatea, pe producție industrială."
+    "reason": "Operarea strungului și centrului de frezare CNC, citirea desenelor tehnice și reglarea sculelor se potrivesc direct competențelor de prelucrare prin așchiere."
   },
   {
-    "url": "https://www.prohuman.ro/candidati/jobs/Inginer-Coordonator-Control-Produs",
-    "title": "Inginer Coordonator Control Produs",
-    "company": "PROHUMAN APT S.R.L.",
+    "url": "https://multijobs.ro/job/desenator-tehnic-proiectant-autocad-2d/1411",
+    "title": "Desenator tehnic/proiectant autocad 2D",
+    "company": "FLAROM ADVERTISING SRL",
     "location": [
-      "Bucuresti",
+      "Constanta",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:15:50.485Z",
+    "date": "2026-10-17T12:18:53.462Z",
+    "status": "scraped",
+    "tags": [
+      "CAD",
+      "desen tehnic"
+    ],
+    "matchPercentage": 68,
+    "reason": "Rolul de desenator tehnic AutoCAD 2D folosește direct competența de proiectare CAD, iar nivelul pare entry-level."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3412401",
+    "title": "ANALIST CALITATE",
+    "company": "DELONGHI SOLAR S.R.L.",
+    "location": [
+      "Madaras",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:19:45.828Z",
     "status": "scraped",
     "tags": [
       "managementul calitatii",
-      "control dimensional"
+      "optimizarea proceselor"
     ],
-    "matchPercentage": 68,
-    "reason": "Controlul conformitatii produselor si instrumentele calitatii (SPC, MSA, PPAP) sunt direct relevante, iar cerinta de 3 ani se incadreaza la nivel mid."
+    "matchPercentage": 65,
+    "reason": "Analist calitate in productie, nivel sub 3 ani, se potriveste partial cu ingineria calitatii industriale."
   },
   {
     "url": "https://www.targuldecariere.ro/companii/zes-zollner-electronic/16467/analist-calitate-client",
@@ -205,28 +153,65 @@
     "date": "2026-10-17T12:19:29.752Z",
     "status": "scraped",
     "tags": [
-      "managementul calității",
-      "analiza defectelor"
-    ],
-    "matchPercentage": 68,
-    "reason": "Postul implică procese de calitate în producție și îmbunătățire continuă, relevante pentru managementul calității."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155250460-mecanic",
-    "title": "Mecanic",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-30T12:33:14.291Z",
-    "status": "scraped",
-    "tags": [
-      "mentenanta",
-      "control dimensional"
+      "managementul calitatii",
+      "optimizarea proceselor"
     ],
     "matchPercentage": 65,
-    "reason": "Lucrul de mentenanță și reparare a mașinilor de producție folosește competențe mecanice și de măsurare dimensională, iar nivelul pare accesibil unui absolvent."
+    "reason": "Analist calitate client in productie electronica, cu procese de calitate si imbunatatire continua, potrivire partiala."
+  },
+  {
+    "url": "https://www.randstad.ro/locuri-de-munca/operator-cnc_popesti-leordeni_5449/",
+    "title": "operator cnc",
+    "company": "RANDSTAD ROMANIA SRL",
+    "location": [
+      "Popesti-Leordeni",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-09T15:06:34.140Z",
+    "status": "scraped",
+    "tags": [
+      "operare CNC",
+      "prelucrare mecanica"
+    ],
+    "matchPercentage": 62,
+    "reason": "Operarea mașinilor CNC folosește direct competențele de comandă numerică și prelucrare mecanică, la nivel entry-level."
+  },
+  {
+    "url": "https://www.randstad.ro/locuri-de-munca/controlor-calitate_bucuresti_5474/",
+    "title": "controlor calitate",
+    "company": "RANDSTAD ROMANIA SRL",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-09T15:06:34.140Z",
+    "status": "scraped",
+    "tags": [
+      "managementul calității",
+      "control dimensional"
+    ],
+    "matchPercentage": 62,
+    "reason": "Controlor calitate în fabrică folosește parțial competențele de management al calității și control dimensional, la nivel entry-level."
+  },
+  {
+    "url": "https://www.targuldecariere.ro/companii/holcim-romania-sa/18682/inginer-tehnolog-producie-prefabricate-beton-buzu",
+    "title": "Inginer tehnolog producție prefabricate beton - Buzău",
+    "company": "HOLCIM (ROMANIA) SA",
+    "location": [
+      "Buzău",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:19:16.340Z",
+    "status": "scraped",
+    "tags": [
+      "managementul productiei",
+      "optimizare tehnologica"
+    ],
+    "matchPercentage": 61,
+    "reason": "Inginer tehnolog în producția de prefabricate din beton valorifică parțial competențele de management al producției, calității și optimizare a proceselor."
   },
   {
     "url": "https://multijobs.ro/job/operator-cnc/4668",
@@ -241,81 +226,9 @@
     "status": "scraped",
     "tags": [
       "operare CNC",
-      "masini-unelte"
-    ],
-    "matchPercentage": 65,
-    "reason": "Titlul indică operare CNC, activitate tehnică de bază din domeniul prelucrării."
-  },
-  {
-    "url": "https://www.targuldecariere.ro/companii/holcim-romania-sa/18682/inginer-tehnolog-producie-prefabricate-beton-buzu",
-    "title": "Inginer tehnolog producție prefabricate beton - Buzău",
-    "company": "HOLCIM (ROMANIA) SA",
-    "location": [
-      "Buzău",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:19:16.340Z",
-    "status": "scraped",
-    "tags": [
-      "tehnologia fabricatiei",
-      "optimizarea proceselor"
-    ],
-    "matchPercentage": 65,
-    "reason": "Tehnolog pentru prefabricate de beton, implică procese și calitate industrială, potrivire parțială."
-  },
-  {
-    "url": "https://www.jobradar24.ro/anunt/operator-prelucrare-cnc-strung-sau-centru-de-frezare-45m5gv",
-    "title": "Operator prelucrare CNC - strung sau centru de frezare",
-    "company": "FLEXIBIL SRL",
-    "location": [
-      "Sasar",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:20:56.264Z",
-    "status": "scraped",
-    "tags": [
-      "prelucrare CNC",
-      "așchiere"
-    ],
-    "matchPercentage": 65,
-    "reason": "Operator CNC pe strung sau centru de frezare aplică direct competențele de prelucrare prin așchiere."
-  },
-  {
-    "url": "https://www.randstad.ro/locuri-de-munca/tehnician-testare-finala-si-calitate-hvac-end-of-line-tester-italia_padova_5275/",
-    "title": "Tehnician Testare Finală și Calitate HVAC (End of Line Tester). Italia",
-    "company": "RANDSTAD ROMANIA SRL",
-    "location": [
-      "Padova",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-30T12:06:08.192Z",
-    "status": "scraped",
-    "tags": [
-      "managementul calității",
-      "fiabilitate"
-    ],
-    "matchPercentage": 64,
-    "reason": "Tehnician testare finală și calitate în producție, potrivire parțială pe controlul calității, nivel de intrare."
-  },
-  {
-    "url": "https://multijobs.ro/job/operator-roboti-sudura/2873",
-    "title": "Operator Roboti Sudura",
-    "company": "PROHUMAN APT S.R.L.",
-    "location": [
-      "Pitești",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:05:27.550Z",
-    "status": "scraped",
-    "tags": [
-      "sudare",
-      "automatizare"
+      "prelucrare mecanica"
     ],
     "matchPercentage": 60,
-    "reason": "Operator roboți de sudură folosește direct sudarea și automatizarea, dar la nivel de operator."
+    "reason": "Post de operator CNC relevant pentru competențele de comandă numerică și prelucrare, deși descrierea este săracă."
   }
 ]
