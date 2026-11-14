@@ -1,1 +1,54 @@
-[]
+[
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3166661",
+    "title": "OPERATOR LA MASINI-UNELTE CU COMANDA NUMERICA",
+    "company": "AEROSTAR SA",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:04:38.945Z",
+    "status": "scraped",
+    "tags": [
+      "programare CNC",
+      "prelucrare prin aschiere"
+    ],
+    "matchPercentage": 80,
+    "reason": "Operator la mașini-unelte cu comandă numerică valorifică direct competențele de programare CNC și prelucrare prin așchiere, cu experiență sub 3 ani."
+  },
+  {
+    "url": "https://www.randstad.ro/locuri-de-munca/controlor-calitate_bucuresti_5474/",
+    "title": "controlor calitate",
+    "company": "RANDSTAD ROMANIA SRL",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T13:53:42.731Z",
+    "status": "scraped",
+    "tags": [
+      "managementul calitatii",
+      "control dimensional"
+    ],
+    "matchPercentage": 66,
+    "reason": "Controlor calitate in fabrica implica inspectii, identificarea neconformitatilor si masuri corective, folosind competentele de management al calitatii."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3441049",
+    "title": "LABORANT DETERMINARI FIZICO-MECANICE",
+    "company": "MICHELIN ROMANIA S.A.",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-13T13:37:50.450Z",
+    "status": "scraped",
+    "tags": [
+      "rezistenta mecanica",
+      "management calitate"
+    ],
+    "matchPercentage": 64,
+    "reason": "Determinări fizico-mecanice în laborator industrial, relevante pentru materiale și controlul calității, la nivel entry-level."
+  }
+]
