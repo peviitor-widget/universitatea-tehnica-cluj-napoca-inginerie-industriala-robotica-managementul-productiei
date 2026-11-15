@@ -1,5 +1,58 @@
 [
   {
+    "url": "https://www.randstad.ro/locuri-de-munca/tehnician-proiectant_bolintin-deal_5503/",
+    "title": "tehnician proiectant",
+    "company": "RANDSTAD ROMANIA SRL",
+    "location": [
+      "Bolintin-Deal",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-14T15:04:39.499Z",
+    "status": "scraped",
+    "tags": [
+      "proiectare CAD",
+      "modelare 3D"
+    ],
+    "matchPercentage": 72,
+    "reason": "Tehnicianul proiectant din producție și proiectare presupune desen tehnic și proiectare CAD, potrivit nivelului de început."
+  },
+  {
+    "url": "https://www.valrom.ro/joburi/operator-cnc/",
+    "title": "Operator CNC",
+    "company": "VALROM INDUSTRIE SRL",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-14T15:05:02.804Z",
+    "status": "scraped",
+    "tags": [
+      "programare CNC",
+      "prelucrare mecanica"
+    ],
+    "matchPercentage": 72,
+    "reason": "Operarea strungului/frezei CNC cu reglarea și introducerea programelor și citirea desenului tehnic folosește direct competențele de prelucrare mecanică și CNC."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3166510",
+    "title": "INGINER PRELUCRARI METALURGICE",
+    "company": "AEROSTAR SA",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-14T13:06:13.450Z",
+    "status": "scraped",
+    "tags": [
+      "constructii de masini",
+      "ingineria fabricatiei"
+    ],
+    "matchPercentage": 68,
+    "reason": "Prelucrări metalurgice în producția aerospațială, cu aplicare parțială a tehnologiilor de fabricație și materialelor, la nivel entry."
+  },
+  {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3166661",
     "title": "OPERATOR LA MASINI-UNELTE CU COMANDA NUMERICA",
     "company": "AEROSTAR SA",
@@ -7,14 +60,14 @@
       "România"
     ],
     "salary": null,
-    "date": "2026-11-13T14:04:38.945Z",
+    "date": "2026-11-14T13:06:13.450Z",
     "status": "scraped",
     "tags": [
       "programare CNC",
-      "prelucrare prin aschiere"
+      "comanda numerica"
     ],
-    "matchPercentage": 80,
-    "reason": "Operator la mașini-unelte cu comandă numerică valorifică direct competențele de programare CNC și prelucrare prin așchiere, cu experiență sub 3 ani."
+    "matchPercentage": 68,
+    "reason": "Operator la masini-unelte cu comanda numerica, entry-level sub 3 ani, foloseste direct competentele de comanda numerica si prelucrare mecanica."
   },
   {
     "url": "https://www.randstad.ro/locuri-de-munca/controlor-calitate_bucuresti_5474/",
@@ -25,30 +78,13 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-13T13:53:42.731Z",
+    "date": "2026-11-14T15:04:39.498Z",
     "status": "scraped",
     "tags": [
-      "managementul calitatii",
-      "control dimensional"
+      "control dimensional",
+      "managementul calitatii"
     ],
-    "matchPercentage": 66,
-    "reason": "Controlor calitate in fabrica implica inspectii, identificarea neconformitatilor si masuri corective, folosind competentele de management al calitatii."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3441049",
-    "title": "LABORANT DETERMINARI FIZICO-MECANICE",
-    "company": "MICHELIN ROMANIA S.A.",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-11-13T13:37:50.450Z",
-    "status": "scraped",
-    "tags": [
-      "rezistenta mecanica",
-      "management calitate"
-    ],
-    "matchPercentage": 64,
-    "reason": "Determinări fizico-mecanice în laborator industrial, relevante pentru materiale și controlul calității, la nivel entry-level."
+    "matchPercentage": 68,
+    "reason": "Controlorul de calitate din fabrică verifică materii prime și produse prin inspecții și control dimensional, folosind direct competențele de management al calității, dar rolul este mai degrabă de execuție decât de proiectare tehnologică."
   }
 ]
