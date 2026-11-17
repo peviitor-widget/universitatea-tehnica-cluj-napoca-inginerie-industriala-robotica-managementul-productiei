@@ -1,89 +1,398 @@
 [
   {
-    "url": "https://www.valrom.ro/joburi/operator-cnc/",
-    "title": "Operator CNC",
-    "company": "VALROM INDUSTRIE SRL",
+    "url": "https://www.irum.ro/posturi-vacante/inginer-proiectant-mecanic-angrenaje-si-transmisii-mecanice/",
+    "title": "INGINER PROIECTANT MECANIC - ANGRENAJE SI TRANSMISII MECANICE",
+    "company": "IRUM SA",
     "location": [
-      "București",
+      "Reghin",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-15T13:43:34.012Z",
-    "status": "scraped",
+    "date": "2026-11-17T11:18:37Z",
+    "status": "tested",
     "tags": [
-      "CNC",
-      "prelucrari"
+      "Modelare 3D",
+      "Calcul rezistenta"
     ],
-    "matchPercentage": 85,
-    "reason": "Operator CNC implica prelucrare mecanica si lucru cu comanda numerica, potrivit competentelor de tehnologii de aschiere si programare CNC la nivel entry."
+    "matchPercentage": 95,
+    "reason": "Proiectare de angrenaje și transmisii cu modele 3D, calcule de rezistență și desene de execuție."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3166661",
-    "title": "OPERATOR LA MASINI-UNELTE CU COMANDA NUMERICA",
-    "company": "AEROSTAR SA",
+    "url": "https://www.jobradar24.ro/anunt/programator-cnc-vd078g",
+    "title": "Programator CNC",
+    "company": "IWF STAFFING S.R.L.",
     "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-11-15T13:35:49.604Z",
-    "status": "scraped",
-    "tags": [
-      "CNC",
-      "masini-unelte"
-    ],
-    "matchPercentage": 85,
-    "reason": "Operator la masini-unelte cu comanda numerica se potriveste direct cu tehnologii de prelucrare si programare CNC, nivel potrivit pentru inceput de cariera."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3166510",
-    "title": "INGINER PRELUCRARI METALURGICE",
-    "company": "AEROSTAR SA",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-11-15T13:35:49.604Z",
-    "status": "scraped",
-    "tags": [
-      "tehnologii de prelucrare",
-      "ingineria fabricației"
-    ],
-    "matchPercentage": 85,
-    "reason": "Inginer prelucrări metalurgice cu mai puțin de 3 ani experiență, potrivit pentru tehnologiile de fabricație și prelucrare din domeniu."
-  },
-  {
-    "url": "https://www.randstad.ro/locuri-de-munca/controlor-calitate_bucuresti_5474/",
-    "title": "controlor calitate",
-    "company": "RANDSTAD ROMANIA SRL",
-    "location": [
-      "București",
+      "Codlea",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-15T13:24:59.877Z",
-    "status": "scraped",
+    "date": "2026-11-17T12:23:16Z",
+    "status": "tested",
     "tags": [
-      "managementul calitatii",
-      "control dimensional"
+      "Programare CNC",
+      "Comanda numerica"
+    ],
+    "matchPercentage": 88,
+    "reason": "Programare CNC pe mașini-unelte cu comandă numerică, domeniu direct și nivel adecvat."
+  },
+  {
+    "url": "https://www.jobradar24.ro/anunt/programator-cnc-x8n0r2",
+    "title": "Programator CNC",
+    "company": "IWF STAFFING S.R.L.",
+    "location": [
+      "Sacele",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T12:23:16Z",
+    "status": "tested",
+    "tags": [
+      "Programare CNC",
+      "Comanda numerica"
+    ],
+    "matchPercentage": 88,
+    "reason": "Programare CNC pe mașini-unelte cu comandă numerică, domeniu direct și nivel adecvat."
+  },
+  {
+    "url": "https://colorcontrol.ro/vacancies",
+    "title": "Inginer Mecanic Proiectant",
+    "company": "COLOR CONTROL SERVICES SRL",
+    "location": [
+      "Apahida",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T12:32:49Z",
+    "status": "tested",
+    "tags": [
+      "proiectare CAD",
+      "modelare 3D"
+    ],
+    "matchPercentage": 86,
+    "reason": "Proiectarea mecanica intr-un mediu cu prelucrare CNC si sudura foloseste direct CAD, modelare 3D si cunostinte de fabricatie."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-tehnolog-prelucrari-mecanice-aschiere-1",
+    "title": "Tehnician/Tehnolog prelucrari mecanice aschiere",
+    "company": "FEROCET SRL",
+    "location": [
+      "Pitești",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T10:13:08Z",
+    "status": "tested",
+    "tags": [
+      "Prelucrare aschiere",
+      "Proiectare tehnologica"
     ],
     "matchPercentage": 82,
-    "reason": "Sarcinile de inspecție, testare și tratare a neconformităților folosesc direct competențele de control al calității și control dimensional, iar nivelul pare entry-level."
+    "reason": "Tehnolog prelucrări mecanice prin așchiere, domeniu direct și fără cerințe de senioritate."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3166487",
-    "title": "INGINER MECANIC",
-    "company": "AEROSTAR SA",
+    "url": "https://jobs.zollner.ro/jobposting/c8c98e43e25e7fa39be5d74ac81691ac95428e9b0",
+    "title": "Analist calitate furnizor",
+    "company": "ZES ZOLLNER ELECTRONIC SRL",
     "location": [
-      "România"
+      "Satu Mare",
+      "Romania"
     ],
     "salary": null,
-    "date": "2026-11-15T13:35:49.604Z",
-    "status": "scraped",
+    "date": "2026-11-17T10:57:31Z",
+    "status": "tested",
     "tags": [
-      "Proiectare tehnică",
-      "Rezistență mecanică"
+      "inginerie calitate",
+      "analiza defecte"
+    ],
+    "matchPercentage": 82,
+    "reason": "La producătorul EMS, analistul de calitate furnizor gestionează reclamații, materii prime și acțiuni corective prin metode de calitate, competențe directe de inginerie a calității."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/tehnician-mentenanta-oltenita/99251356",
+    "title": "Tehnician Mentenanta - Oltenita",
+    "company": "PROHUMAN APT S.R.L.",
+    "location": [
+      "Calarasi",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T12:36:59Z",
+    "status": "tested",
+    "tags": [
+      "mentenanta",
+      "analiza defectelor"
+    ],
+    "matchPercentage": 82,
+    "reason": "Tehnician mentenanță pe echipamente mecanice, electrice și automatizări, cu analiza cauzelor defectelor, nivel entry/mid."
+  },
+  {
+    "url": "https://multijobs.ro/job/operator-cnc/1831",
+    "title": "Operator CNC",
+    "company": "COLOR CONTROL SUPPORT S.R.L.",
+    "location": [
+      "Apahida",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T11:43:36Z",
+    "status": "tested",
+    "tags": [
+      "programare CNC",
+      "prelucrare aschiere"
+    ],
+    "matchPercentage": 80,
+    "reason": "Operarea mașinilor CNC folosește direct programarea comandei numerice și tehnologiile de prelucrare prin așchiere, la nivel entry-level."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3430924",
+    "title": "TEHNICIAN PROGRAMARE, LANSARE, URMARIREA PRODUCTIEI",
+    "company": "COMPANIA NATIONALA &quot;IMPRIMERIA NATIONALA&quot; SA",
+    "location": [
+      "BUCURESTI SECTORUL 6",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T12:59:33Z",
+    "status": "verified",
+    "tags": [
+      "management productie",
+      "planificare capacitati"
+    ],
+    "matchPercentage": 78,
+    "reason": "Programarea, lansarea și urmărirea producției folosesc managementul producției și planificarea capacităților, cu zero ani experiență."
+  },
+  {
+    "url": "https://oferimdemunca.ro/job/angajam-inginer-pregatirea-fabricatiei/",
+    "title": "Angajam Inginer Pregatirea Fabricatiei",
+    "company": "TERMOREP SRL",
+    "location": [
+      "Râmnicu Vâlcea",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T12:34:29Z",
+    "status": "tested",
+    "tags": [
+      "proiectare tehnologica",
+      "documentatie fabricatie"
+    ],
+    "matchPercentage": 75,
+    "reason": "Pregatirea fabricatiei foloseste direct proiectarea tehnologica si documentatia de fabricatie, la nivel mid."
+  },
+  {
+    "url": "https://www.targuldecariere.ro/companii/zoork/18846/specialiti-documentaie-tehnic-i-calitate",
+    "title": "Specialisti documentatie tehnica si calitate",
+    "company": "ZOORK S.R.L.",
+    "location": [
+      "Iași",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T12:36:59Z",
+    "status": "tested",
+    "tags": [
+      "documentatie tehnica",
+      "management calitate"
     ],
     "matchPercentage": 72,
-    "reason": "Rol de inginer mecanic (studii superioare, experiență redusă) potențial relevant pentru proiectare și inginerie mecanică, deși descrierea este vagă."
+    "reason": "Întocmirea, verificarea și gestionarea documentației tehnice și a cărților tehnice corespund competenței de elaborare a documentației de fabricație, cu componentă de calitate."
+  },
+  {
+    "url": "https://ro.gigroup.com/job-detail/stefanestii-de-jos-ilfov-specialist-depanare-si-mentenanta-plc/14751/",
+    "title": "Specialist Depanare si Mentenanta PLC",
+    "company": "GI GROUP STAFFING COMPANY SRL",
+    "location": [
+      "Ștefăneștii de Jos",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T12:23:46Z",
+    "status": "tested",
+    "tags": [
+      "automatizari",
+      "mentenanta"
+    ],
+    "matchPercentage": 72,
+    "reason": "Depanare PLC și automatizări industriale cu 2 ani experiență, nivel mid potrivit, deși cere calificare de electrician."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/planner-asamblare-electronica-si-cablaje-1",
+    "title": "Planner - Asamblare Electronica si Cablaje",
+    "company": "ELMET INTERNATIONAL SRL",
+    "location": [
+      "Brașov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T10:26:49Z",
+    "status": "tested",
+    "tags": [
+      "planning",
+      "management productie"
+    ],
+    "matchPercentage": 70,
+    "reason": "Planificarea asamblării electronice și a cablajelor folosește direct planningul și managementul operațiunilor de producție, la nivel entry/mid."
+  },
+  {
+    "url": "https://multijobs.ro/job/operator-control-calitate/8035",
+    "title": "Operator control calitate",
+    "company": "HREVOLUTION S.R.L.",
+    "location": [
+      "Pantelimon",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T11:11:22Z",
+    "status": "tested",
+    "tags": [
+      "control dimensional",
+      "ingineria calitatii"
+    ],
+    "matchPercentage": 70,
+    "reason": "Controlul calității implică analiză dimensională, toleranțe și verificări specifice ingineriei calității, la nivel entry-level."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-logistica-110",
+    "title": "Specialist Logistica",
+    "company": "BMC TRUCK &amp; BUS SA",
+    "location": [
+      "Ciorogarla",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T11:44:35Z",
+    "status": "tested",
+    "tags": [
+      "logistica",
+      "planificare productie"
+    ],
+    "matchPercentage": 70,
+    "reason": "Într-o fabrică de vehicule, specialistul de logistică aplică planificarea și gestionarea stocurilor de producție la nivel mid."
+  },
+  {
+    "url": "https://oferimdemunca.ro/job/angajam-inginer-sudor/",
+    "title": "Angajam Inginer sudor",
+    "company": "TERMOREP SRL",
+    "location": [
+      "Râmnicu Vâlcea",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T12:34:29Z",
+    "status": "tested",
+    "tags": [
+      "sudare",
+      "desene tehnice"
+    ],
+    "matchPercentage": 68,
+    "reason": "Postul de inginer sudor foloseste tehnologiile de sudare si interpretarea desenelor tehnice si se incadreaza la nivel mid."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-imbunatatire-procese-51",
+    "title": "Specialist Îmbunătățire Procese",
+    "company": "CROSS WORK S.R.L.",
+    "location": [
+      "Victoria",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T11:51:35Z",
+    "status": "tested",
+    "tags": [
+      "optimizare tehnologii",
+      "inginerie fabricatie"
+    ],
+    "matchPercentage": 68,
+    "reason": "Îmbunătățirea proceselor folosește direct optimizarea tehnologiilor de fabricație și ingineria producției, la nivel specialist junior/mid."
+  },
+  {
+    "url": "https://multijobs.ro/job/responsabil-sistem-de-management-al-calitatii/2846",
+    "title": "Responsabil Sistem de Management al Calitatii",
+    "company": "DONA. LOGISTICA S.A.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T11:34:09Z",
+    "status": "tested",
+    "tags": [
+      "managementul calitatii",
+      "audit"
+    ],
+    "matchPercentage": 68,
+    "reason": "Responsabil cu sistemul de management al calității, domeniu din competențe, fără cerințe explicite de senioritate."
+  },
+  {
+    "url": "https://jobs.schaeffler.com/job/Brasov-Tehnolog-Mentenanta-507075/1454656033/",
+    "title": "Tehnolog Mentenanta",
+    "company": "SCHAEFFLER ROMANIA SRL",
+    "location": [
+      "Brașov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T09:19:19Z",
+    "status": "tested",
+    "tags": [
+      "Mentenanta",
+      "Desen tehnic"
+    ],
+    "matchPercentage": 65,
+    "reason": "Tehnolog mentenanță cu studii superioare și desen tehnic, folosește competențe de fiabilitate și mentenanță industrială."
+  },
+  {
+    "url": "https://multijobs.ro/job/analist-calitate/3605",
+    "title": "Analist Calitate",
+    "company": "ARENA GROUP SA",
+    "location": [
+      "Voluntari",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T11:51:54Z",
+    "status": "tested",
+    "tags": [
+      "management calitate",
+      "audit"
+    ],
+    "matchPercentage": 65,
+    "reason": "Titlul vizează analiza calității, competență directă în ingineria și managementul calității, la nivel de analist entry-level, deși descrierea nu detaliază sarcinile."
+  },
+  {
+    "url": "https://8ore.ro/locuri-de-munca/controlor-calitate-fabrica-mase-plastice-pantelimon",
+    "title": "Controlor Calitate - Fabrica mase plastice Pantelimon",
+    "company": "RECRUITMENT MARATHON S.R.L.",
+    "location": [
+      "Pantelimon",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T11:45:50Z",
+    "status": "tested",
+    "tags": [
+      "Managementul calitatii",
+      "Analiza defectelor"
+    ],
+    "matchPercentage": 65,
+    "reason": "Controlul calității într-o fabrică de mase plastice folosește parțial managementul calității și analiza defectelor, la nivel entry-level."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3446510",
+    "title": "SPECIALIST ÎN MANAGEMENTUL DESEURILOR",
+    "company": "VIVANI SALUBRITATE SA",
+    "location": [
+      "SLOBOZIA",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T12:56:12Z",
+    "status": "verified",
+    "tags": [
+      "reciclare",
+      "protectie ecologica"
+    ],
+    "matchPercentage": 62,
+    "reason": "Managementul deșeurilor vizează reciclarea și protecția ecologică, iar experiența sub 3 ani se încadrează la nivel acceptat."
   }
 ]
