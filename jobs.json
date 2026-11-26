@@ -12,10 +12,10 @@
     "status": "tested",
     "tags": [
       "modelare 3D",
-      "rezistenta"
+      "calcul rezistenta"
     ],
     "matchPercentage": 95,
-    "reason": "Proiectarea angrenajelor, calculele de rezistență, modelarea 3D și desenele cu toleranțe se potrivesc integral."
+    "reason": "Proiectarea angrenajelor și transmisiilor folosește modelare 3D, calcul de rezistență și desene de execuție."
   },
   {
     "url": "https://8ore.ro/locuri-de-munca/tehnician-programare-cad-cam-cnc-belciugatele",
@@ -30,10 +30,98 @@
     "status": "tested",
     "tags": [
       "Programare CNC",
-      "Modelare 3D"
+      "CAD/CAM"
     ],
     "matchPercentage": 95,
-    "reason": "Pozitie junior de programare CAD/CAM/CNC pentru matrite, cu modelare 3D, prelucrare in 5 axe si optimizare tehnologica, potrivire directa cu profilul."
+    "reason": "Pozitie junior de programare CAD/CAM/CNC cu prelucrare in 5 axe, documentatie tehnologica si optimizare de procese - potrivire directa."
+  },
+  {
+    "url": "https://www.valrom.ro/joburi/operator-cnc/",
+    "title": "Operator CNC",
+    "company": "VALROM INDUSTRIE SRL",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-25T16:59:18.610Z",
+    "status": "scraped",
+    "tags": [
+      "programare CNC",
+      "control dimensional"
+    ],
+    "matchPercentage": 92,
+    "reason": "Operator pe strung și freză CNC cu programare, reglare și verificare după desenul tehnic, exact domeniul comenzii numerice și al prelucrării prin așchiere."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3166661",
+    "title": "OPERATOR LA MASINI-UNELTE CU COMANDA NUMERICA",
+    "company": "AEROSTAR SA",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-25T16:54:38.347Z",
+    "status": "scraped",
+    "tags": [
+      "programare CNC",
+      "așchiere"
+    ],
+    "matchPercentage": 90,
+    "reason": "Operator la mașini-unelte cu comandă numerică, cu sub 3 ani experiență, direct în sfera programării CNC și a prelucrării prin așchiere."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3166510",
+    "title": "INGINER PRELUCRARI METALURGICE",
+    "company": "AEROSTAR SA",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-25T16:54:38.347Z",
+    "status": "scraped",
+    "tags": [
+      "proiectare tehnologica",
+      "prelucrare aschiere"
+    ],
+    "matchPercentage": 90,
+    "reason": "Inginer în prelucrări metalurgice, studii superioare și sub 3 ani experiență, domeniu direct relevant."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3451668",
+    "title": "OPERATOR LA MASINI-UNELTE CU COMANDA NUMERICA",
+    "company": "VARIANT AGRO S.R.L.",
+    "location": [
+      "TARGU JIU",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-25T16:54:34Z",
+    "status": "scraped",
+    "tags": [
+      "comandă numerică",
+      "așchiere"
+    ],
+    "matchPercentage": 88,
+    "reason": "Operator la mașini-unelte cu comandă numerică, nivel entry-level, cu aplicare directă a competențelor de comandă numerică și aschiere."
+  },
+  {
+    "url": "https://multijobs.ro/job/inginer-tehnolog-debitare/2747",
+    "title": "Inginer Tehnolog Debitare",
+    "company": "ROTEC S.R.L.",
+    "location": [
+      "Buzau",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T15:18:31Z",
+    "status": "tested",
+    "tags": [
+      "proiectare tehnologica",
+      "prelucrare aschiere"
+    ],
+    "matchPercentage": 85,
+    "reason": "Inginerul tehnolog de debitare folosește proiectarea tehnologică și traseele de prelucrare prin așchiere."
   },
   {
     "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/269917/Hipo-Job-Finder/Dimensional-Lab-Engineer-(F/M)---Marquardt",
@@ -47,11 +135,11 @@
     "date": "2026-11-17T15:16:57Z",
     "status": "tested",
     "tags": [
-      "control dimensional",
-      "GD&T"
+      "GD&T",
+      "control dimensional"
     ],
-    "matchPercentage": 92,
-    "reason": "Dimensional Lab Engineer cu 1-5 ani experiență folosește direct analiza dimensională, toleranțele și controlul GD&T."
+    "matchPercentage": 85,
+    "reason": "Inginer în laborator dimensional, potrivit direct pentru analiză dimensională, toleranțe și control în mediu industrial, cu experiență 1-5 ani."
   },
   {
     "url": "https://www.leohr.ro/jobs/specialist-proces-sudura/323/",
@@ -66,45 +154,10 @@
     "status": "tested",
     "tags": [
       "sudare",
-      "dispozitive"
+      "procesare materiale"
     ],
-    "matchPercentage": 92,
-    "reason": "Poziția cere studii de inginerie, experiență de 2-3 ani și sarcini directe de proces sudură MIG/MAG, PFMEA și dispozitive Poka-Yoke."
-  },
-  {
-    "url": "https://www.valrom.ro/joburi/operator-cnc/",
-    "title": "Operator CNC",
-    "company": "VALROM INDUSTRIE SRL",
-    "location": [
-      "București",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-24T17:18:20.957Z",
-    "status": "scraped",
-    "tags": [
-      "programare CNC",
-      "prelucrare aschiere"
-    ],
-    "matchPercentage": 85,
-    "reason": "Operator CNC pe strung și freză, cu introducerea programelor și verificarea pieselor după desenul tehnic, domeniu și nivel potrivite."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3166661",
-    "title": "OPERATOR LA MASINI-UNELTE CU COMANDA NUMERICA",
-    "company": "AEROSTAR SA",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-11-24T17:06:14.684Z",
-    "status": "scraped",
-    "tags": [
-      "programare CNC",
-      "comanda numerica"
-    ],
-    "matchPercentage": 85,
-    "reason": "Operator la mașini-unelte cu comandă numerică, sub 3 ani experiență, folosește direct programarea CNC și prelucrarea prin așchiere."
+    "matchPercentage": 80,
+    "reason": "Rolul de specialist in procese de sudura foloseste direct tehnologiile de sudare, iar nivelul de specialist corespunde unui post mid."
   },
   {
     "url": "https://makitajobs.ro/operator-freza-cnc/",
@@ -118,65 +171,29 @@
     "date": "2026-11-17T15:08:54Z",
     "status": "tested",
     "tags": [
-      "frezare",
+      "programare CNC",
       "tolerante"
     ],
-    "matchPercentage": 85,
-    "reason": "Vitezele de așchiere, desenul tehnic, toleranțele și G-code corespund direct competențelor de prelucrare și programare CNC."
+    "matchPercentage": 78,
+    "reason": "Postul cere cunoașteri de așchiere, desen tehnic, toleranțe și programare CNC la nivel de intrare."
   },
   {
-    "url": "https://colorcontrol.ro/vacancies",
-    "title": "Inginer Mecanic Proiectant",
-    "company": "COLOR CONTROL SERVICES SRL",
+    "url": "https://multijobs.ro/job/prelucrator-prin-aschiere-operator-masina-alezat-frezat-cnc/2744",
+    "title": "Prelucrator prin aschiere- operator masina alezat frezat cnc",
+    "company": "ROTEC S.R.L.",
     "location": [
-      "Apahida",
+      "Buzau",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T12:32:49Z",
+    "date": "2026-11-17T15:18:31Z",
     "status": "tested",
     "tags": [
-      "proiectare CAD",
-      "aschiere"
+      "prelucrare aschiere",
+      "frezare"
     ],
-    "matchPercentage": 85,
-    "reason": "Proiectare mecanica si CAD intr-o companie de prelucrari CNC, taiere laser si sudare, fara cerinte de nivel senior."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3451668",
-    "title": "OPERATOR LA MASINI-UNELTE CU COMANDA NUMERICA",
-    "company": "VARIANT AGRO S.R.L.",
-    "location": [
-      "TARGU JIU",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-24T17:06:10Z",
-    "status": "scraped",
-    "tags": [
-      "CNC",
-      "aschiere"
-    ],
-    "matchPercentage": 82,
-    "reason": "Titlul vizează direct mașini-unelte cu comandă numerică, iar cerința de sub 3 ani e potrivită."
-  },
-  {
-    "url": "https://crosswork.sincron.biz/jobs/details/690/inginer-tehnolog",
-    "title": "Inginer Tehnolog",
-    "company": "CROSS WORK S.R.L.",
-    "location": [
-      "Iași",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T14:03:10Z",
-    "status": "tested",
-    "tags": [
-      "optimizare",
-      "mentenanta"
-    ],
-    "matchPercentage": 80,
-    "reason": "Optimizarea fluxurilor, mentenanța utilajelor și eficientizarea capacității folosesc ingineria producției și fiabilitatea."
+    "matchPercentage": 72,
+    "reason": "Prelucrarea prin așchiere cu alezare și frezare CNC corespunde direct competențelor de prelucrare mecanică."
   },
   {
     "url": "https://www.jobradar24.ro/anunt/operator-cnc-k7k5mv",
@@ -190,47 +207,11 @@
     "date": "2026-11-17T15:37:00Z",
     "status": "tested",
     "tags": [
-      "aschiere",
-      "CNC"
-    ],
-    "matchPercentage": 78,
-    "reason": "Executarea pieselor prin prelucrări mecanice conform specificațiilor folosește direct aschierea și comanda numerică."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3446888",
-    "title": "OPERATOR LA MASINI-UNELTE CU COMANDA NUMERICA",
-    "company": "WORK FORCE SERVICE S.R.L.",
-    "location": [
-      "BUCURESTI SECTORUL 2",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-24T16:59:33Z",
-    "status": "scraped",
-    "tags": [
-      "CNC",
-      "aschiere"
+      "prelucrare mecanica",
+      "comanda numerica"
     ],
     "matchPercentage": 70,
-    "reason": "Operarea masinilor-unelte cu comanda numerica foloseste direct cunostintele de CNC si prelucrare prin aschiere, iar postul cere zero experienta."
-  },
-  {
-    "url": "https://usamvjobs.ro/job/chitila-2-operator-cnc/",
-    "title": "operator CNC",
-    "company": "MOTECO GLASS FILIALĂ SRL",
-    "location": [
-      "Chitila",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:26:16Z",
-    "status": "tested",
-    "tags": [
-      "planning",
-      "CAD"
-    ],
-    "matchPercentage": 68,
-    "reason": "Optimizarea comenzilor, pierderilor și termenelor de livrare folosește planningul producției și AutoCAD, la nivel de absolvent."
+    "reason": "Operatorul CNC execută piese după specificații tehnice, folosind direct prelucrarea mecanică și comanda numerică."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/planner-asamblare-electronica-si-cablaje-1",
@@ -245,28 +226,10 @@
     "status": "tested",
     "tags": [
       "planning",
-      "management productie"
+      "productie"
     ],
     "matchPercentage": 68,
-    "reason": "Plannerul pentru asamblare electronică și cablaje folosește direct planificarea și managementul operațiunilor de producție, la nivel entry/mid."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-logistica-110",
-    "title": "Specialist Logistica",
-    "company": "BMC TRUCK &amp; BUS SA",
-    "location": [
-      "Ciorogarla",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T11:44:35Z",
-    "status": "tested",
-    "tags": [
-      "Logistică",
-      "Planning"
-    ],
-    "matchPercentage": 68,
-    "reason": "Poziție de specialist logistic într-un producător de vehicule, folosind competențe de logistică și planificare, la nivel mid."
+    "reason": "Rol de planificare în producție cu relevanță parțială pentru managementul producției și organizarea proceselor, la nivel probabil accesibil."
   },
   {
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155250460-mecanic",
@@ -276,49 +239,66 @@
       "România"
     ],
     "salary": null,
-    "date": "2026-11-24T17:21:07.291Z",
-    "status": "scraped",
-    "tags": [
-      "mentenanță",
-      "control dimensional"
-    ],
-    "matchPercentage": 65,
-    "reason": "Întreținerea și repararea mașinilor din producție, cu aparate de măsură și control, folosesc direct mentenanța și controlul dimensional, la nivel entry-level."
-  },
-  {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/emjIAOcUh4",
-    "title": "Responsabil Mecanizare Utilaje &amp; Camioane",
-    "company": "ELECTROGRUP SA",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-24T17:12:01Z",
+    "date": "2026-11-25T17:00:02.313Z",
     "status": "scraped",
     "tags": [
       "mentenanta",
-      "planificare"
+      "control dimensional"
     ],
-    "matchPercentage": 60,
-    "reason": "Planificarea reparatiilor si mentenantei utilajelor foloseste competente de fiabilitate si operatiuni industriale, la nivel de specialist."
+    "matchPercentage": 65,
+    "reason": "Reparația și întreținerea mașinilor de pe linii, cu măsurători cu sublerul și micrometrul, folosesc parțial mentenanța și controlul dimensional, la nivel entry-level."
   },
   {
-    "url": "https://makitajobs.ro/responsabil-mediu/",
-    "title": "Responsabil Mediu",
-    "company": "MAKITA ROMANIA SRL",
+    "url": "https://usamvjobs.ro/job/chitila-2-operator-cnc/",
+    "title": "operator CNC",
+    "company": "MOTECO GLASS FILIALĂ SRL",
     "location": [
-      "Ilfov",
+      "Chitila",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T15:08:54Z",
+    "date": "2026-11-17T15:26:16Z",
     "status": "tested",
     "tags": [
-      "audit",
-      "protectie mediu"
+      "proiectare CAD",
+      "planificare"
+    ],
+    "matchPercentage": 65,
+    "reason": "Optimizarea comenzilor și a ordinii de tăiere folosește proiectarea CAD și planificarea, la nivel de absolvent."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3441049",
+    "title": "LABORANT DETERMINARI FIZICO-MECANICE",
+    "company": "MICHELIN ROMANIA S.A.",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-25T16:27:15.204Z",
+    "status": "scraped",
+    "tags": [
+      "control calitate",
+      "rezistenta mecanica"
     ],
     "matchPercentage": 60,
-    "reason": "Responsabil de mediu intr-o fabrica de scule electrice, cu audituri ISO 14001 si protectie ecologica in industrie, la nivel ne-senior."
+    "reason": "Laborantul în determinări fizico-mecanice aplică testarea materialelor și controlul calității la nivel entry-level."
+  },
+  {
+    "url": "https://www.teamland.ro/apply.php?id=965",
+    "title": "Laborant determinari fizico-mecanice",
+    "company": "TEAMLAND SRL",
+    "location": [
+      "Ploiesti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T11:34:09Z",
+    "status": "tested",
+    "tags": [
+      "control calitate",
+      "rezistenta mecanica"
+    ],
+    "matchPercentage": 60,
+    "reason": "Laborantul în determinări fizico-mecanice aplică testarea materialelor și controlul calității la nivel entry-level."
   }
 ]
